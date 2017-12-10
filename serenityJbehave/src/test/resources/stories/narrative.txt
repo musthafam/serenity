@@ -1,0 +1,4 @@
+Login in Demo Site
+In order to land on Home page
+As an Test user
+I want to login with test credentials

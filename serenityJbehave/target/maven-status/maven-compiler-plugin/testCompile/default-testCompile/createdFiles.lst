@@ -1,0 +1,4 @@
+com\musthafa\serenity\AcceptanceTestSuite.class
+com\musthafa\serenity\pages\DemoQAPage.class
+com\musthafa\serenity\steps\DemoQaSteps.class
+com\musthafa\serenity\steps\serenity\DemoQAUserSteps.class

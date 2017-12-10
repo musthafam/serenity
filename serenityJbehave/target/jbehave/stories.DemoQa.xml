@@ -1,0 +1,12 @@
+<story path="stories/DemoQa.story" title="Login in Demo Site">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">land on Home page</inOrderTo>
+  <asA keyword="As a">n Test user</asA>
+  <iWantTo keyword="I want to">login with test credentials</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Login with &apos;zmmm&apos; and &apos;Ambattur123&apos;">
+<step outcome="successful">Given User has launched Test URL in Chrome</step>
+<step outcome="successful">When Enters valid username and password &amp; clicks on Login</step>
+<step outcome="successful">Then User should get the home screen successfully</step>
+</scenario>
+</story>
